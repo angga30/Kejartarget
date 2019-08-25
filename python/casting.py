@@ -20,3 +20,6 @@ print(strfloata)
 
 print(int(stringa))
 print(int(floata))
+
+print(float(stringa))
+print(float(integ))
